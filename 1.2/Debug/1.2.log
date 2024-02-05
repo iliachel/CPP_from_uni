@@ -1,0 +1,8 @@
+﻿  1.2.cpp
+E:\HomeWork\1.2\1.2.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\HomeWork\1.2\1.2.cpp(132): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sluch<int>(T *,int)"
+          with
+          [
+              T=int
+          ]
+  1.2.vcxproj -> E:\HomeWork\1.2\Debug\1.2.exe
