@@ -1,0 +1,6 @@
+﻿  2.5.cpp
+C:\Users\ichel\OneDrive\Рабочий стол\HomeWork\2.5\2.5.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ichel\OneDrive\Рабочий стол\HomeWork\2.5\2.5.cpp(16,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ichel\OneDrive\Рабочий стол\HomeWork\2.5\2.5.cpp(17,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ichel\OneDrive\Рабочий стол\HomeWork\2.5\2.5.cpp(18,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  2.5.vcxproj -> C:\Users\ichel\OneDrive\Рабочий стол\HomeWork\2.5\Debug\2.5.exe
